@@ -1,0 +1,35 @@
+Dark Mode Baby Care App: A Material Design Approach for Sleep Insights
+
+We’re building a dark mode app designed with Material Design guidelines, prioritizing human-centered design principles in both language and aesthetics. The app will serve as a comprehensive tool for parents and caregivers to log and evaluate their baby’s feeding and sleep patterns, focusing on usability and clarity.
+
+Feature 1: Feeding Log
+To help track feeding habits, the app will capture:
+
+Date and Time: When the feeding session occurred.
+Feeding Method:
+Breastfeeding: Log the duration (in minutes).
+Bottle Feeding: Log both the duration and the amount consumed (in ounces).
+Solids: Log the duration.
+Session Details: Provide flexibility for caregivers to record any observations during feeding, such as baby’s mood or interruptions.
+Feature 2: Sleep Tracking
+Since sleep data is critical for evaluating patterns and improvements, the app will allow users to log:
+
+Sleep Start Time: When the baby fell asleep.
+Wake-Up Time: When the baby woke up.
+Sleep Quality Notes: Optional space for caregivers to note observations such as frequent waking, fussiness, or external factors (e.g., environment or illness).
+Design and User Experience Considerations
+Dark Mode:
+Reduce eye strain during nighttime logging.
+Follow Material Design's Dark Theme guidelines for contrast and readability.
+Human-Centered Language:
+Use intuitive, non-technical prompts (e.g., “When did your baby fall asleep?”).
+Avoid jargon to keep the app approachable for all caregivers.
+Aesthetic Design:
+Soft tones and rounded elements for a comforting interface.
+High-contrast text and buttons to ensure readability even in low light.
+Goal for Sleep Experts
+The logged feeding and sleep data will provide a structured and detailed record for sleep experts to evaluate:
+
+Feeding habits and their impact on sleep patterns.
+Consistencies or irregularities in sleeping and waking times.
+Correlations between feeding types (e.g., breast vs. bottle) and sleep quality.
